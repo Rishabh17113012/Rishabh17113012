@@ -1,0 +1,12 @@
+<svg width="600" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff6b6b"/>
+      <stop offset="50%" stop-color="#4ecdc4"/>
+      <stop offset="100%" stop-color="#45b7d1"/>
+    </linearGradient>
+  </defs>
+  <text x="300" y="40" text-anchor="middle" fill="url(#footerGrad)" font-family="Arial, sans-serif" font-size="18" font-weight="300">
+    ✨ Building the Future, One Line of Code at a Time ✨
+  </text>
+</svg>
