@@ -34,7 +34,7 @@
     <td>
       <ul>
         <li>🎓 Engineering undergraduate at <b>Computer Science & Engineering</b></li>
-        <li>💼 Currently working as <b>Full Stack Intern</b> at <b>The Moronss</b></li>
+        <li>💼 Worked as <b>Full Stack Intern</b> at <b>The Moronss</b></li>
         <li>🔭 Building <b>scalable web applications</b> with modern technologies</li>
         <li>🌱 Exploring <b>System Design</b>, <b>DevOps</b> & <b>Advanced ML</b></li>
         <li>🌐 Creating <b>RESTful APIs</b> and <b>responsive frontends</b></li>
